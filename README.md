@@ -50,7 +50,7 @@ The license gives you access to the source <b>Victor Client</b> is built from, b
 
 Because of the nature of the agreements required to interact with the Microsoft identity platform, it's impossible for us to continue allowing everyone to build the code as 'Victor Client'. The source code has been debranded and now builds as `DevLauncher` by default.
 
-You must provide your own branding if you want to distribute your own builds.
+You must provide your own branding if you want to distribute your own builds.[Join Discord to help](https://discord.com)
 
 You will also have to register your own app on Azure to be able to handle Microsoft account logins.
 
