@@ -5,12 +5,14 @@
 Victor Client
 =======
 
-<b>Victor Client</b> is a custom launcher for Minecraft that focuses on predictability, long term stability and quality of life minecraft mods.
+<b>Victor Client</b>
+
+<b>Victor Launcher</b> aims to provide a reliable platform for Minecraft enthusiasts. It focuses on predictability, ensuring users have a consistent experience. Long-term stability is a key priority, allowing players to enjoy the game without interruptions. Additionally, the launcher integrates quality of life mods that enhance gameplay. These mods improve user experience by adding useful features and optimizations. Overall, Victor Launcher seeks to create a seamless and enjoyable Minecraft experience for all players.
 
 ## Development
-If you want to contribute, talk to us on <b>[Discord](https://discord.gg/multimc)</b> first.
+If you want to contribute, talk to us on <b>Discord</b> first.
 <img src="https://github.com/user-attachments/assets/e3e1e029-626f-4a3e-a621-0f7241a16b9e" alt="Victor Client Discord"/>
-
+<b>[Discord](https://discord.com)</b>
 While blindly submitting Applications is definitely possible, they're <b>not</b> necessarily going to get accepted.
 
 We are looking for <b>flashy features</b>,and expanding upon the existing feature set <b>without</b> disruption or endangering the future viability of the project is prefered.
