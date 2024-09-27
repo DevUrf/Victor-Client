@@ -1,18 +1,18 @@
 <p align="center">
-  <img src="https://avatars2.githubusercontent.com/u/5411890" alt="MultiMC logo"/>
+  <img src="https://avatars2.githubusercontent.com/u/5411890" alt="Victor Client logo"/>
 </p>
 
-MultiMC
+Victor Client
 =======
 
-MultiMC is a custom launcher for Minecraft that focuses on predictability, long term stability and simplicity.
+<b>Victor Client</b> is a custom launcher for Minecraft that focuses on predictability, long term stability and quality of life minecraft mods.
 
 ## Development
 If you want to contribute, talk to us on [Discord](https://discord.gg/multimc) first.
 
-While blindly submitting PRs is definitely possible, they're not necessarily going to get accepted.
+While blindly submitting Applications is definitely possible, they're not necessarily going to get accepted.
 
-We aren't looking for flashy features, but expanding upon the existing feature set without disruption or endangering the future viability of the project is OK.
+We are looking for flashy features,and expanding upon the existing feature set without disruption or endangering the future viability of the project is prefered.
 
 ### Building
 If you want to build the launcher yourself, check [BUILD.md](BUILD.md) for build instructions.
