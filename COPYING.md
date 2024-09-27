@@ -1,4 +1,4 @@
-# MultiMC
+# Victor Client
 
 Portions are licensed under Apache 2.0 License:
 
