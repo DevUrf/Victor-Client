@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/84bec1d1-734d-4132-a735-03efa2a92bad" alt="Victor Client logo"/>
+  <img src="https://github.com/user-attachments/assets/059c897f-763e-4482-aad3-ac196e72de36" alt="Victor Client logo" width=45%/>
 </p>
 
 Victor Client
