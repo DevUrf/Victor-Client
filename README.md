@@ -16,10 +16,10 @@ If you want to contribute, talk to us on <b>[Discord](https://discord.com)</b> f
 
 While blindly submitting Applications is definitely possible, they're <b>not</b> necessarily going to get accepted.
 
-We are looking for <b>flashy features</b>,and expanding upon the existing feature set <b>without</b> disruption or endangering the future viability of the project is prefered.
+We are looking for <b>flashy features</b>,and expanding upon the existing feature set <b>without</b> disruption or endangering the future viability of the project is prefered. We are also looking for people with expierence coding a minecraft launcher and knows about minecraft <b>Modding and Quality of life mods</b>
 
 ### Donating
-If you want to Donate to help with ongoing project visit the <b>[Website](https://victorclient2.godaddysites.com)</b>
+If you want to Donate to help with ongoing project visit the <b>[Website](https://victorclient2.godaddysites.com)</b> anyone who donates get a <strong>special<strong> cape in launcher. 
 
 ### Code formatting
 Just follow the existing formatting.
@@ -37,12 +37,12 @@ Translations can be done [on crowdin](https://translate.multimc.org). Please avo
 ## License
 Copyright &copy; 2013-2022 MultiMC Contributors
 
-Licensed under the Apache License, Version 2.0 (the "License"); you may not use this program except in compliance with the License. You may obtain a copy of the License at [http://www.apache.org/licenses/LICENSE-2.0](http://www.apache.org/licenses/LICENSE-2.0).
+Licensed under the Apache License, Version 2.0 (the "License"); you may not use this program except in compliance with the License. You may obtain a copy of the License at <b>[http://www.apache.org/licenses/LICENSE-2.0](http://www.apache.org/licenses/LICENSE-2.0).</b>
 
 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.
 
 ## Forking/Redistributing/Custom builds policy
-<b>We keep Launcher open source because we think it's important to be able to see the source code for a project like this, and we do so using the Apache license.</b>
+<b>We keep Launcher Closed Source because we think it's important to give the <b>Developers</b> privacy for a project like this, and we do so using the Apache license.</b>
 
 The license gives you access to the source <b>Victor Client</b> is built from, but not:
 - The name, logo and other branding.
